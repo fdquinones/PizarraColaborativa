@@ -1,0 +1,2 @@
+# PizarraColaborativa
+Pizarra distribuida utilizando 
